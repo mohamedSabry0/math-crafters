@@ -4,38 +4,38 @@
   <!-- <img src="./app_screenshot.png" alt="logo" width="140"  height="auto" />
   <br/> -->
 
-  <h3><b>Math Geeks</b></h3>
+  <h3><b>Math Crafters</b></h3>
 
 </div>
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [Screenshot](#screenshot)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    <!-- - [Key Features](#key-features) -->
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-- [👥 Authors](#authors)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-<!-- - [🔭 Future Features](#future-features)
-- [❓ FAQ (OPTIONAL)](#faq) -->
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Math Crafters ](#-math-crafters-)
+  - [Screenshot ](#screenshot-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+      - [`npm start`](#npm-start)
+    - [Run tests](#run-tests)
+      - [`npm test`](#npm-test)
+  - [👥 Authors ](#-authors-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [Acknowledgements ](#acknowledgements-)
+  - [📝 License ](#-license-)
 
+# 📖 Math Crafters <a name="about-project"></a>
 
-# 📖 Math Geeks <a name="about-project"></a>
-
-**Math Geeks** is a simple calculator built with <a href="https://reactjs.org/">React.js</a>
+**Math Crafters** is a simple calculator built with <a href="https://reactjs.org/">React.js</a>
 
 ## Screenshot <a name="screenshot"></a>
+
 <div align='center'>
   <img src="./app_screenshot.png" alt="logo" width="140"  height="auto" />
     <br/>
@@ -53,7 +53,7 @@
 </details>
 
 <!-- Features -->
-<!-- 
+<!--
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
@@ -68,7 +68,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://mathgeeks-4y9n.onrender.com)
+> not yet deployed
+
+<!-- - [Live Demo Link](https://mathgeeks-4y9n.onrender.com) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,10 +83,12 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+
 - Node
 - npm
 
 Probably with versions:
+
 - Node >= 19.6.0
 - npm >= 9.4.0
 
@@ -94,7 +98,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:mohamedSabry0/math-geeks.git
+  git clone git@github.com:mohamedSabry0/math-crafters.git
 ```
 
 ### Install
@@ -102,10 +106,9 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd math-geeks
+  cd math-crafters
   npm i
 ```
-
 
 ### Usage
 
@@ -118,7 +121,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
 
 ### Run tests
 
@@ -143,7 +145,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- 
+<!--
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
@@ -160,7 +162,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mohamedSabry0/math-geeks/issues).
+Feel free to check the [issues page](https://github.com/mohamedSabry0/math-crafters/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,13 +175,15 @@ If you like this project it would be truly appreciated if you give it a ⭐️.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgements <a name="acknowledgements"></a>
+
 > We seek knowledge from the cradle to the grave.
 
 I am grateful for these resources as they were a reason that I obtained a glimpse of their abundance of knowledge:
+
 - [Microverse](https://www.microverse.org/)
 - [ReactJS Docs](https://reactjs.org/docs)
 - [React Router Docs](https://reactrouter.com/en/main)
-- I also thank other resources that might have slipped from my mind to mention, I really appreciate all the efforts in delivering helpful resources of knowledge.  
+- I also thank other resources that might have slipped from my mind to mention, I really appreciate all the efforts in delivering helpful resources of knowledge.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
