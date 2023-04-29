@@ -1,0 +1,36 @@
+.calculator {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 0.5rem;
+}
+
+.result {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: right;
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 0.5rem;
+}
+
+.btn {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  margin: 0.25rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.or-bg {
+  background-color: #f5913e;
+}
+
+.gr-bg {
+  background-color: #e0e0e0;
+}
