@@ -1,4 +1,4 @@
-import 'calculator.css';
+import '../styles/calculator.scss';
 
 const Calculator = () => (
   <div className="calculator">
