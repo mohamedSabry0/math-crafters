@@ -1,7 +1,6 @@
 import '../styles/calculator.scss';
 import { useState } from 'react';
 import calculate from '../logic/calculate';
-import Result from './Result';
 
 const Calculator = () => {
   const [calcObj, setCalcObj] = useState({
@@ -10,15 +9,29 @@ const Calculator = () => {
     operation: null,
   });
 
+  const [result, setResult] = useState('0');
+
+  function updateResult(total, next) {
+    if (next) {
+      return next;
+    }
+    if (total) {
+      return total;
+    }
+    return '0';
+  }
+
   function handleClick(event) {
     const buttonName = event.target.innerText;
+    const { total, next, operation } = calculate(calcObj, buttonName);
 
-    setCalcObj(calculate(calcObj, buttonName));
+    setCalcObj({ total, next, operation });
+    setResult(updateResult(total, next));
   }
 
   return (
     <div className="calculator">
-      <Result total={calcObj.total} next={calcObj.next} />
+      <div className="result">{result}</div>
       <button onClick={handleClick} className="btn gr-bg" type="button">AC</button>
       <button onClick={handleClick} className="btn gr-bg" type="button">+/-</button>
       <button onClick={handleClick} className="btn gr-bg" type="button">%</button>
