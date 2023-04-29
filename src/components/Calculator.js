@@ -19,7 +19,7 @@ const Calculator = () => (
     <button className="btn gr-bg" type="button">2</button>
     <button className="btn gr-bg" type="button">3</button>
     <button className="btn or-bg" type="button">+</button>
-    <button className="btn gr-bg" type="button">0</button>
+    <button className="btn gr-bg double" type="button">0</button>
     <button className="btn gr-bg" type="button">.</button>
     <button className="btn or-bg" type="button">=</button>
   </div>
