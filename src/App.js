@@ -1,12 +1,14 @@
-import Calculator from './components/Calculator';
-import Quote from './components/Quote';
+import HomePage from './pages/HomePage';
+import QuotePage from './pages/QuotePage';
+import CalculatorPage from './pages/CalculatorPage';
 import './styles/App.scss';
 
 function App() {
   return (
     <div className="App">
-      <Calculator />
-      <Quote />
+      <HomePage />
+      <CalculatorPage />
+      <QuotePage />
     </div>
   );
 }

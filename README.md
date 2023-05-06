@@ -26,7 +26,7 @@
       - [`npm start`](#npm-start)
     - [Run tests](#run-tests)
       - [`npm test`](#npm-test)
-  - [👥 Authors ](#-authors-)
+  - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -135,7 +135,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Mohamed Sabry**
 
