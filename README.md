@@ -38,7 +38,7 @@
 ## Screenshot <a name="screenshot"></a>
 
 <div align='center'>
-  <img src="./app_screenshot.png" alt="logo" width="140"  height="auto" />
+  <img src="./app_screenshot.png" alt="logo" width="350"  height="auto" />
     <br/>
 </div>
 
