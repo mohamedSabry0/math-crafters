@@ -1,4 +1,3 @@
-// Quote page component that utilizes the Quote component:
 import Quote from '../components/Quote';
 
 const QuotePage = () => (
