@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- <img src="./app_screenshot.png" alt="logo" width="140"  height="auto" />
-  <br/> -->
 
   <h3><b>Math Crafters</b></h3>
 
