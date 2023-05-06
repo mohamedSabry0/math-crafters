@@ -26,13 +26,20 @@ const Quote = () => {
     fetchQuotes();
   }, [setQuotes, setIsLoading]);
 
+  if (isLoading) return <div>Loading...</div>;
+
   if (hasError || Number(quotes.length) === 0) { return <div>Something went wrong!</div>; }
 
-  if (isLoading) return <div>Loading...</div>;
   return (
     <ul>
       {quotes.map(({ author, quote }) => (
-        <li key={author}>{quote}</li>
+        <li key={author}>
+          {quote}
+          {'\n'}
+          - Said by
+          {' '}
+          {author}
+        </li>
       ))}
     </ul>
   );

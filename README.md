@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- <img src="./app_screenshot.png" alt="logo" width="140"  height="auto" />
-  <br/> -->
 
   <h3><b>Math Crafters</b></h3>
 
@@ -26,7 +24,7 @@
       - [`npm start`](#npm-start)
     - [Run tests](#run-tests)
       - [`npm test`](#npm-test)
-  - [👥 Authors ](#-authors-)
+  - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -40,7 +38,7 @@
 ## Screenshot <a name="screenshot"></a>
 
 <div align='center'>
-  <img src="./app_screenshot.png" alt="logo" width="140"  height="auto" />
+  <img src="./app_screenshot.png" alt="logo" width="350"  height="auto" />
     <br/>
 </div>
 
@@ -135,7 +133,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Mohamed Sabry**
 
